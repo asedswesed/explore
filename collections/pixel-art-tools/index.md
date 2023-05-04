@@ -1,4 +1,4 @@
----
+Syfug
 items:
  - aseprite/aseprite/
  - piskelapp/piskel/
